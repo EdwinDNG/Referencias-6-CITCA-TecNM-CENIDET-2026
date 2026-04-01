@@ -1,4 +1,4 @@
-# Referencias-6-CITCA-TecNM-CENIDET-2026
+# Referencias-6-CITCA-TecNM-CENIDET-2026 
 Referencias utilizadas para el congreso 6° CITCA-TecNM-CENIDET 2026
 [1] Antonio Rafael Sabino Parmezan, Vinicius M.A. Souza, and Gustavo E.A.P.A. Batista.
 Evaluation of statistical and machine learning models for time series prediction: Identifying
