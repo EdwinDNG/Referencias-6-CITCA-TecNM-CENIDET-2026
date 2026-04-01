@@ -4,6 +4,4 @@ Referencias utilizadas para el congreso 6° CITCA-TecNM-CENIDET 2026 <br />
 Evaluation of statistical and machine learning models for time series prediction: Identifying
 the state-of-the-art and the best conditions for the use of each model. Information Sciences,
 484:302–337, 5 2019. <br />
-[2] Spyros Makridakis, Evangelos Spiliotis, and Vassilios Assimakopoulos. Statistical and ma
-chine learning forecasting methods: Concerns and ways forward. PLoS ONE, 13, 3 2018. <br />
 
